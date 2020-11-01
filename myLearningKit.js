@@ -1,3 +1,173 @@
+/*Problem 1 Bilal
+*/
+function problem1() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a postive number and separe its digits.";
+
+  document.getElementById("flowchart").setAttribute("src", "images/problem1fc.jpg");
+
+  document.getElementById("flowchart").style.display = "none";
+
+  document.getElementById("js").setAttribute("src", "images/problem1.png");
+  document.getElementById("js").style.display = "none";
+
+
+  document
+    .getElementById("another")
+    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+  document.getElementById("another").style.display = "none";
+
+  document.getElementById("check1").checked = false;
+  document.getElementById("check2").checked = false;
+}
+
+function problem2() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a  postive number and determine the number of 7’s in it. ";
+
+  document.getElementById("flowchart").setAttribute("src", "images/problem2fc.jpg");
+
+  document.getElementById("flowchart").style.display = "none";
+
+  document.getElementById("js").setAttribute("src", "images/problem2.png");
+  document.getElementById("js").style.display = "none";
+
+
+  document
+    .getElementById("another")
+    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+  document.getElementById("another").style.display = "none";
+
+  document.getElementById("check1").checked = false;
+  document.getElementById("check2").checked = false;
+}
+
+function problem3() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a positve number and create triangle nested loops corresponding with imput.";
+
+  document.getElementById("flowchart").setAttribute("src", "images/problem3fc.jpg");
+
+  document.getElementById("flowchart").style.display = "none";
+
+  document.getElementById("js").setAttribute("src", "images/problem3.png");
+  document.getElementById("js").style.display = "none";
+
+
+  document
+    .getElementById("another")
+    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+  document.getElementById("another").style.display = "none";
+
+  document.getElementById("check1").checked = false;
+  document.getElementById("check2").checked = false;
+}
+
+function problem4() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive three numbers of a quadratic equation and output info about the roots.";
+
+  document.getElementById("flowchart").setAttribute("src", "images/problem4fc.jpg");
+
+  document.getElementById("flowchart").style.display = "none";
+
+  document.getElementById("js").setAttribute("src", "images/problem4.png");
+  document.getElementById("js").style.display = "none";
+
+
+  document
+    .getElementById("another")
+    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+  document.getElementById("another").style.display = "none";
+
+  document.getElementById("check1").checked = false;
+  document.getElementById("check2").checked = false;
+}
+
+function problem5() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive 8 numbers and determine whether the first 4 imputs are equal to the second 4 imputs.";
+
+  document.getElementById("flowchart").setAttribute("src", "images/problem5fc.jpg");
+
+  document.getElementById("flowchart").style.display = "none";
+
+  document.getElementById("js").setAttribute("src", "images/problem5.png");
+  document.getElementById("js").style.display = "none";
+
+
+  document
+    .getElementById("another")
+    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+  document.getElementById("another").style.display = "none";
+
+  document.getElementById("check1").checked = false;
+  document.getElementById("check2").checked = false;
+}
+
+function problem7() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a number and determine all prime numbers that are less or equal to it.";
+
+    document.getElementById("flowchart").setAttribute("src", "images/problem7fc.jpg");
+
+    document.getElementById("flowchart").style.display = "none";
+  
+    document.getElementById("js").setAttribute("src", "images/problem7.png");
+    document.getElementById("js").style.display = "none";
+  
+  
+    document
+      .getElementById("another")
+      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    document.getElementById("another").style.display = "none";
+  
+    document.getElementById("check1").checked = false;
+    document.getElementById("check2").checked = false;
+}
+
+
+function problem8() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a number and determine all prime numbers that include a 7 that are less or equal to it.";
+
+    document.getElementById("flowchart").setAttribute("src", "images/problem8fc.jpg");
+
+    document.getElementById("flowchart").style.display = "none";
+  
+    document.getElementById("js").setAttribute("src", "images/problem8.png");
+    document.getElementById("js").style.display = "none";
+  
+  
+    document
+      .getElementById("another")
+      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    document.getElementById("another").style.display = "none";
+  
+    document.getElementById("check1").checked = false;
+    document.getElementById("check2").checked = false;
+}
+
+function problem9() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a base and height of a triangle and calculate its area.";
+
+    document.getElementById("flowchart").setAttribute("src", "images/problem9fc.jpg");
+
+    document.getElementById("flowchart").style.display = "none";
+  
+    document.getElementById("js").setAttribute("src", "images/problem9.png");
+    document.getElementById("js").style.display = "none";
+  
+  
+    document
+      .getElementById("another")
+      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    document.getElementById("another").style.display = "none";
+  
+    document.getElementById("check1").checked = false;
+    document.getElementById("check2").checked = false;
+}
 /* 
 ====
 Problem 15
