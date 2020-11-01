@@ -168,6 +168,10 @@ function problem9() {
     document.getElementById("check1").checked = false;
     document.getElementById("check2").checked = false;
 }
+
+
+/*----------------------------------------------------------------------------------------------------------------------------*/
+
 /* 
 ====
 Problem 15
@@ -497,7 +501,7 @@ Problem 22
  */
 function problem22() {
   document.getElementById("problem").innerHTML =
-    "Devise an algorithm to receive the width and height a rectange then output it's perimeter.";
+    "Devise an algorithm to receive the width and height a rectangle then output it's perimeter.";
 
 
   document.getElementById("flowchart").setAttribute("src", "images/problem22fc.png");
@@ -765,9 +769,9 @@ Problem 28
  */
 function problem28() {
   document.getElementById("problem").innerHTML =
-    "Devise an algorithm to receive a number and return whether if it prime or not";
+    "Devise an algorithm to receive the radius of a circle then ouput its area.";
 
-  document.getElementById("flowchart").setAttribute("src", "images/problem28fc.png");
+  document.getElementById("flowchart").setAttribute("src", "");
 
   document.getElementById("flowchart").style.display = "none";
 
@@ -809,7 +813,7 @@ Problem 29
  */
 function problem29() {
   document.getElementById("problem").innerHTML =
-    "Devise an algorithm to receive a number and return whether if it has a digit 7 or not";
+    "Devise an algorithm to receive a number and return whether if it has a digit 8 or not";
 
   document.getElementById("flowchart").setAttribute("src", "images/problem29fc.png");
 
@@ -889,6 +893,26 @@ function checkUncheck2() {
     document.getElementById("js").style.display = "none";
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
