@@ -1,5 +1,6 @@
 /*Problem 1 Bilal
 */
+
 function problem1() {
   document.getElementById("problem").innerHTML =
     "Devise an algorithm to receive a postive number and separe its digits.";
@@ -20,6 +21,7 @@ function problem1() {
   document.getElementById("check1").checked = false;
   document.getElementById("check2").checked = false;
 }
+
 
 function problem2() {
   document.getElementById("problem").innerHTML =
@@ -42,6 +44,7 @@ function problem2() {
   document.getElementById("check2").checked = false;
 }
 
+
 function problem3() {
   document.getElementById("problem").innerHTML =
     "Devise an algorithm to receive a positve number and create triangle nested loops corresponding with imput.";
@@ -62,6 +65,7 @@ function problem3() {
   document.getElementById("check1").checked = false;
   document.getElementById("check2").checked = false;
 }
+
 
 function problem4() {
   document.getElementById("problem").innerHTML =
@@ -84,9 +88,10 @@ function problem4() {
   document.getElementById("check2").checked = false;
 }
 
+
 function problem5() {
   document.getElementById("problem").innerHTML =
-    "Devise an algorithm to receive 8 numbers and determine whether the first 4 imputs are equal to the second 4 imputs.";
+    "Devise an algorithm to receive 8 numbers and determine whether the first 4 imputs sum are equal to the second 4 imput's sum.";
 
   document.getElementById("flowchart").setAttribute("src", "images/problem5fc.jpg");
 
@@ -104,6 +109,29 @@ function problem5() {
   document.getElementById("check1").checked = false;
   document.getElementById("check2").checked = false;
 }
+
+
+function problem6() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive 8 numbers and determine whether the first 4 imputs less than 0 are equal to the second 4 imputs greater than 0.";
+
+  document.getElementById("flowchart").setAttribute("src", "images/problem6fc.jpg");
+
+  document.getElementById("flowchart").style.display = "none";
+
+  document.getElementById("js").setAttribute("src", "images/problem6.png");
+  document.getElementById("js").style.display = "none";
+
+
+  document
+    .getElementById("another")
+    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+  document.getElementById("another").style.display = "none";
+
+  document.getElementById("check1").checked = false;
+  document.getElementById("check2").checked = false;
+}
+
 
 function problem7() {
   document.getElementById("problem").innerHTML =
@@ -148,9 +176,10 @@ function problem8() {
     document.getElementById("check2").checked = false;
 }
 
+
 function problem9() {
   document.getElementById("problem").innerHTML =
-    "Devise an algorithm to receive a base and height of a triangle and calculate its area.";
+    "Devise an algorithm to receive a base and height of a triangle and determine its area";
 
     document.getElementById("flowchart").setAttribute("src", "images/problem9fc.jpg");
 
@@ -168,7 +197,110 @@ function problem9() {
     document.getElementById("check1").checked = false;
     document.getElementById("check2").checked = false;
 }
+function problem10() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a person's age and determine whether they or an adult or not.";
 
+    document.getElementById("flowchart").setAttribute("src", "images/problem10fc.jpg");
+
+    document.getElementById("flowchart").style.display = "none";
+  
+    document.getElementById("js").setAttribute("src", "images/problem10.png");
+    document.getElementById("js").style.display = "none";
+  
+  
+    document
+      .getElementById("another")
+      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    document.getElementById("another").style.display = "none";
+  
+    document.getElementById("check1").checked = false;
+    document.getElementById("check2").checked = false;
+}
+
+function problem11() {
+  document.getElementById("problem").innerHTML =
+  "Devise an algorithm to receive 3 numbers and determine which is the greatest.";
+
+    document.getElementById("flowchart").setAttribute("src", "images/problem11fc.jpg");
+
+    document.getElementById("flowchart").style.display = "none";
+  
+    document.getElementById("js").setAttribute("src", "images/problem11.png");
+    document.getElementById("js").style.display = "none";
+  
+  
+    document
+      .getElementById("another")
+      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    document.getElementById("another").style.display = "none";
+  
+    document.getElementById("check1").checked = false;
+    document.getElementById("check2").checked = false;
+}
+
+function problem12() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to recieve an imput and determine whether it is even or odd";
+
+    document.getElementById("flowchart").setAttribute("src", "images/problem12fc.jpg");
+
+    document.getElementById("flowchart").style.display = "none";
+  
+    document.getElementById("js").setAttribute("src", "images/problem12.png");
+    document.getElementById("js").style.display = "none";
+  
+  
+    document
+      .getElementById("another")
+      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    document.getElementById("another").style.display = "none";
+  
+    document.getElementById("check1").checked = false;
+    document.getElementById("check2").checked = false;
+}
+
+function problem13() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a business's sale price and cost price and determine if they made money";
+
+    document.getElementById("flowchart").setAttribute("src", "images/problem13fc.jpg");
+
+    document.getElementById("flowchart").style.display = "none";
+  
+    document.getElementById("js").setAttribute("src", "images/problem13.png");
+    document.getElementById("js").style.display = "none";
+  
+  
+    document
+      .getElementById("another")
+      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    document.getElementById("another").style.display = "none";
+  
+    document.getElementById("check1").checked = false;
+    document.getElementById("check2").checked = false;
+}
+
+function problem14() {
+  document.getElementById("problem").innerHTML =
+    "Devise an algorithm to receive a 3 angles and determine whether a triangle may be formed.";
+
+    document.getElementById("flowchart").setAttribute("src", "images/problem14fc.jpg");
+
+    document.getElementById("flowchart").style.display = "none";
+  
+    document.getElementById("js").setAttribute("src", "images/problem14.png");
+    document.getElementById("js").style.display = "none";
+  
+  
+    document
+      .getElementById("another")
+      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    document.getElementById("another").style.display = "none";
+  
+    document.getElementById("check1").checked = false;
+    document.getElementById("check2").checked = false;
+}
 
 /*----------------------------------------------------------------------------------------------------------------------------*/
 
