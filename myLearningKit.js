@@ -991,9 +991,9 @@ function problem30() {
   document.getElementById("problem").innerHTML =
     "Devise an algorithm to flip a coin by getting a random number. If the number is below 0.5 set the value to tails if not set it heads. ";
 
-  document.getElementById("flowchart").setAttribute("src", "images.png");
+    document.getElementById("flowchart").setAttribute("src", "images/problem30fc.jpg");
 
-  document.getElementById("flowchart").style.display = "none";
+    document.getElementById("flowchart").style.display = "none";
 
   document.getElementById("js").setAttribute("src", "images/problem30.png");
   document.getElementById("js").style.display = "none";
