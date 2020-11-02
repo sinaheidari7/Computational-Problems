@@ -241,7 +241,7 @@ function problem11() {
 
 function problem12() {
   document.getElementById("problem").innerHTML =
-    "Devise an algorithm to recieve an imput and determine whether it is even or odd";
+    "Devise an algorithm to recieve an input and determine whether it is even or odd";
 
     document.getElementById("flowchart").setAttribute("src", "images/problem12fc.jpg");
 
@@ -315,7 +315,7 @@ function problem15() {
 
   document
     .getElementById("flowchart")
-    .setAttribute("src", "images/");
+    .setAttribute("src", "images/problem15fc.jpeg");
 
   document.getElementById("flowchart").style.display = "none";
 
@@ -366,7 +366,7 @@ function problem16() {
 
   document
     .getElementById("flowchart")
-    .setAttribute("src", "images/jujeh/jujehDesign.jpg");
+    .setAttribute("src", "images/problem16fc.jpeg.jpg");
 
   document.getElementById("flowchart").style.display = "none";
 
@@ -903,7 +903,7 @@ function problem28() {
   document.getElementById("problem").innerHTML =
     "Devise an algorithm to receive the radius of a circle then ouput its area.";
 
-  document.getElementById("flowchart").setAttribute("src", "");
+  document.getElementById("flowchart").setAttribute("src", "images/problem28fc.jpeg");
 
   document.getElementById("flowchart").style.display = "none";
 
