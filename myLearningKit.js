@@ -366,7 +366,7 @@ function problem16() {
 
   document
     .getElementById("flowchart")
-    .setAttribute("src", "images/problem16fc.jpeg.jpg");
+    .setAttribute("src", "images/problem16fc.jpeg");
 
   document.getElementById("flowchart").style.display = "none";
 
