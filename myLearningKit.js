@@ -15,7 +15,7 @@ function problem1() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -37,7 +37,7 @@ function problem2() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -59,7 +59,7 @@ function problem3() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -81,7 +81,7 @@ function problem4() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -103,7 +103,7 @@ function problem5() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -125,7 +125,7 @@ function problem6() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -147,7 +147,7 @@ function problem7() {
   
     document
       .getElementById("another")
-      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+      .setAttribute("src", "");
     document.getElementById("another").style.display = "none";
   
     document.getElementById("check1").checked = false;
@@ -169,7 +169,7 @@ function problem8() {
   
     document
       .getElementById("another")
-      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+      .setAttribute("src", "");
     document.getElementById("another").style.display = "none";
   
     document.getElementById("check1").checked = false;
@@ -191,7 +191,7 @@ function problem9() {
   
     document
       .getElementById("another")
-      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+      .setAttribute("src", "");
     document.getElementById("another").style.display = "none";
   
     document.getElementById("check1").checked = false;
@@ -211,7 +211,7 @@ function problem10() {
   
     document
       .getElementById("another")
-      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+      .setAttribute("src", "");
     document.getElementById("another").style.display = "none";
   
     document.getElementById("check1").checked = false;
@@ -232,7 +232,7 @@ function problem11() {
   
     document
       .getElementById("another")
-      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+      .setAttribute("src", "");
     document.getElementById("another").style.display = "none";
   
     document.getElementById("check1").checked = false;
@@ -253,7 +253,7 @@ function problem12() {
   
     document
       .getElementById("another")
-      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+      .setAttribute("src", "");
     document.getElementById("another").style.display = "none";
   
     document.getElementById("check1").checked = false;
@@ -274,7 +274,7 @@ function problem13() {
   
     document
       .getElementById("another")
-      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+      .setAttribute("src", "");
     document.getElementById("another").style.display = "none";
   
     document.getElementById("check1").checked = false;
@@ -295,7 +295,7 @@ function problem14() {
   
     document
       .getElementById("another")
-      .setAttribute("src", "images/jujeh/jujeh2.jpg");
+      .setAttribute("src", "");
     document.getElementById("another").style.display = "none";
   
     document.getElementById("check1").checked = false;
@@ -376,7 +376,7 @@ function problem16() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -421,7 +421,7 @@ function problem17() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -466,7 +466,7 @@ function problem18() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -511,7 +511,7 @@ function problem19() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -556,7 +556,7 @@ function problem20() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -601,7 +601,7 @@ function problem21() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -646,7 +646,7 @@ function problem22() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -691,7 +691,7 @@ function problem23() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -736,7 +736,7 @@ function problem24() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -781,7 +781,7 @@ function problem25() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -825,7 +825,7 @@ function problem26() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -869,7 +869,7 @@ function problem27() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -913,7 +913,7 @@ function problem28() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -957,7 +957,7 @@ function problem29() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
@@ -1001,7 +1001,7 @@ function problem30() {
 
   document
     .getElementById("another")
-    .setAttribute("src", "images/jujeh/jujeh2.jpg");
+    .setAttribute("src", "");
   document.getElementById("another").style.display = "none";
 
   document.getElementById("check1").checked = false;
